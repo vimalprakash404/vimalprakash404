@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [vimalprakash404.github.io](vimalprakash404.github.io)
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **Node js**
 
 - 📫 How to reach me **vimalprakash3322@gmail.com**
 
